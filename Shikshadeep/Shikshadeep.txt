@@ -1,0 +1,15 @@
+<doctype html>
+<html>
+    <head>
+        <title>Shikshadeep</title>
+    </head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <body>
+        <div class ="header">
+            <div class="header_logo">
+                <img src="C:\Users\Dell\OneDrive\Desktop\Shikshadeep\Pics">
+            </div>
+        </div>
+    </body>
+</html>

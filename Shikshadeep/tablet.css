@@ -1,0 +1,43 @@
+@media only screen and (min-width:426px) and (max-width:768px){
+    .header_logo{
+      float:left;
+    }
+    .header_center{
+      align:center;
+    }
+    .header_contact{
+      display: none;
+    }
+    .navbar a{
+        padding-top:10px;
+        padding-left:5px;
+        padding-right: 5px;
+    }
+    .mySlides img{
+      align:center;
+    }
+    .Fac_name{
+      margin-left: 20px;
+    }
+    .programs{
+      margin-left:5px;;
+    }
+
+    #faculty_img{
+      width:300px;
+      height:180px;
+    }
+    #fac_img1{
+      padding:
+    }
+
+    #introduction{
+      font-size:25px;
+      margin-bottom: 50px;
+    }
+    #introduce{
+      font-size:15px;
+      margin-top:8px;
+    }
+
+} 

@@ -1,0 +1,104 @@
+@media only screen and (max-width:425px){
+    .header_logo{
+      float:left;
+    }
+    .header_logo img{
+      height:70px;
+    }
+
+    .header_center{
+      display:none;
+  
+    }
+    .header_contact{
+      display: none;
+    }
+    .wrap_navbar{
+      display:none;
+    }
+    #menu{
+      display:flex;
+      border-radius: 15px;
+      flex-direction: column;
+      text-align:center;
+      float:right;
+      background-color: white ;
+      width:58px;
+      height: 40px;
+      margin-top :15px;
+    }
+    #strip{
+      text-align:center;
+      flex-direction: column;
+      width: 30px; 
+      border-style: solid;
+      border-radius: 10px;
+      border-color: #434be7;
+      background-color: #434be7;
+      margin:2px;
+      margin-left:5px;
+    }
+
+    #program{
+      margin-left: 10px;;
+    }
+
+    #faculty_img{
+      margin:5px;
+      width:80%;
+      height:110px;
+      float: none;
+    }
+    #fac_img1{
+      margin:0px;
+      max-width:180px;
+      margin-left:10px;
+
+    }
+    #fac_img2{
+      margin:0px;
+      max-width:180px;
+    }
+    .home_introduction{
+      flex-direction: column;
+      width:100%;
+    }
+    #intro_pic{
+
+      width:100%;
+      max-height:150px;
+    }
+    #intro_left,.intro_right{
+      width:100%;
+    }
+    #introduction{
+      font-size:20px;
+      margin-bottom: 50px;
+    }
+    #introduce{
+      font-size:15px;
+      margin-top:8px;
+    }
+    .nav-home,.nav-admission,.nav-courses,.nav-announcement,.nav-aboutus,.nav-gallery,.nav-contact{
+      display:none;
+    }
+    .navbar a{
+      font-size: 8px;
+      padding-top:10px;
+      padding-left:8px;
+      padding-right:8px;
+    }
+       
+} 
+@media only screen and (max-width:320px){
+  #fac_img1{
+    margin:0px;
+    max-width:150px;
+    margin-left:10px;
+
+  }
+  #fac_img2{
+    margin:0px;
+    max-width:150px;
+  }
+}

@@ -1,0 +1,149 @@
+body{
+    margin:0;
+    padding: 0;
+    width:100%;
+}
+
+
+.header_wrap{
+    display:block;
+    overflow:hidden;
+    background: #282A97 ;
+    width:100%;
+    max-height: 192px;
+
+}
+
+.header{
+    background: url(Pics/top_background.png) no-repeat top center;
+    display:block;
+    overflow:hidden;
+    margin:0 auto;
+    padding-left:20px;
+    padding-right: 50px;
+    max-height: 192px;
+    max-width:1024px;
+    
+}
+
+.header_logo{
+    float:left;
+    padding: 5px;
+    display:block;
+    overflow:hidden;
+    
+    
+
+}
+.header_center{
+    float:left;
+    width:461px;
+    margin-top:5px;
+    margin-left:60px;
+    display:block;
+    overflow:hidden;
+    max-height: 192px;
+
+}
+.header_contact{
+    float:right;
+    display:block;
+    overflow:hidden;
+    font-size: 15px;
+    line-height: 12px;
+    color:white;
+    padding-top:15px;
+    padding-right:25px;
+    }
+#phone{
+    background:url(Pics/phone.png) no-repeat;
+    padding-left:20px;
+}
+#mail{
+    background:url(Pics/mail.png) no-repeat;
+    padding-left:20px;
+}
+#fb{
+    padding-left:20px;
+}
+
+
+.wrap_navbar{
+    display:block;
+    overflow:hidden;
+    background: #434be7 ;
+    width:100%;
+}
+
+.navbar{
+    background: url(Pics/nav_back.png) no-repeat top center;
+    display:block;
+    overflow:hidden;
+    margin:0 auto;
+    width:1080px;
+}
+
+
+  
+.navbar a {
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+.navbar a:hover {
+    background-color: #699EB5;
+}
+.active {
+    background-color: #52547C;
+    max-width: 105px;
+}
+
+.nav-home{
+    padding-left: 35px;
+    padding-top: 8px;
+    padding-bottom: 12px;
+    background:url(Pics/home.png) no-repeat;    
+}
+.nav-aboutus{
+    padding-left: 35px;
+    padding-top: 5px;
+    padding-bottom: 12px;
+    background:url(Pics/about.png) no-repeat;    
+}
+.nav-admission{
+    padding-left: 35px;
+    padding-top: 5px;
+    padding-bottom: 12px;
+    background:url(Pics/admission.png) no-repeat;    
+}
+.nav-announcement{
+    padding-left: 35px;
+    padding-top: 5px;
+    padding-bottom: 12px;
+    background:url(Pics/announcement.png) no-repeat;    
+}
+.nav-gallery{
+    padding-left: 35px;
+    padding-top: 5px;
+    padding-bottom: 12px;
+    background:url(Pics/gallery.png) no-repeat;    
+}
+.nav-contact{
+    padding-left: 35px;
+    padding-top: 5px;
+    padding-bottom: 12px;
+    background:url(Pics/contact.png) no-repeat;    
+}
+.nav-courses{
+    padding-left: 35px;
+    padding-top: 5px;
+    padding-bottom: 12px;
+    background:url(Pics/courses.png) no-repeat;    
+}
+.menus{
+    display:block;
+}
+
+

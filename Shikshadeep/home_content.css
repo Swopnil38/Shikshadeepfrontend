@@ -1,0 +1,107 @@
+#program{
+    font-size: 30px;
+    font-style: bold;
+    font-weight: 1000;
+    font-family: cursive;
+    paddding-top:35px;
+    margin-bottom: 100px;
+
+}
+#faculty_img{
+    height:350px;
+    width:350px;
+    vertical-align: middle;
+}
+
+
+#fac_img1{
+    float:left;
+    margin-bottom: 15px;
+    margin-left: 50px;
+
+}
+#fac_img2{
+    float:right;
+    margin-bottom: 15px;
+    margin-right: 50px;
+
+
+}
+
+.program_wrap{
+    width: 100%; 
+    display:block;
+    overflow:hidden;   
+}
+.programs{
+    display:block;
+    overflow:hidden;
+    margin:auto;
+    max-width:1024px;
+}
+.Fac_name{
+    max-width: 1080px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+.intro_wrap{
+    width:100%;
+}
+.home_introduction{
+    display:flex;
+    text-align:center;
+    max-height:385px;
+
+}
+#intro_pic{
+    width:100%;
+    max-height:330px;
+
+}
+#intro_left{
+    flex:50%;
+
+}
+.intro{
+    flex:50%;
+    max-width:500px;
+    max-height:255px;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+#introduction{
+    font-size: 30px;
+    font-style: bold;
+    font-weight: 1000;
+    font-family: cursive;
+    margin-bottom: 100px;
+}
+#introduce{
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-size: 20px;
+}
+.intro_more{
+    font-size:15px;
+    font-style: bold;
+    font-weight: 1000;
+    font-family: cursive;
+    background-color: #434be7 ;
+    color:white;
+}
+@media only screen and (min-width:1100px){
+    .intro{
+        padding-top: 30px;;
+    }
+    .intro_more{
+        padding:10px;
+        margin-top:5px;
+    }
+}
+
+.intro_right{
+    flex:50%;
+    background-color:  rgb(56, 56, 163);
+
+}
